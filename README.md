@@ -19,7 +19,7 @@ The analysis will be based on data from upGrad's YouTube channel and its competi
 5. **Distribution Strategy**: Determine the optimal timing and frequency of video uploads, as well as the use of other distribution channels.
 
 ## Code
-The notebook `youtube-tags.ipynb` extracts all the tags of the videos on upGrad's and Simplilearn's YouTube channel. We choose Simplilearn for the competition analysis and pure research purposes. The notebook `visuals.ipynb` contains the visualizations so far including analysis of the tags used by both companies, the number of viewers v/s the duration of the videos, tags for the most viral YouTube videos, and so on.
+The notebook `youtube-tags.ipynb` extracts all the tags of the videos on upGrad's and Simplilearn's YouTube channel. We choose Simplilearn for the competition analysis and pure research purposes. The notebook `visual.ipynb` contains the visualizations so far including analysis of the tags used by both companies, the number of viewers v/s the duration of the videos, tags for the most viral YouTube videos, and so on.
 
 ## Results
 The analysis will provide insights and recommendations for upGrad's YouTube content strategy, including areas for improvement and potential growth opportunities.
