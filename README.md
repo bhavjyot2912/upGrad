@@ -13,13 +13,16 @@ The analysis will be based on data from upGrad's YouTube channel and its competi
 
 ## Methodology
 1. **Exploratory Data Analysis (EDA)**: Explore the datasets to understand trends, patterns, and key metrics.
-2. **Content Analysis**: Analyze the types of content that perform well for both upGrad and its competitor.
+2. **Content Analysis**: Analyze the types of content that perform well for both upGrad and its competitors.
 3. **Audience Analysis**: Understand the demographics and preferences of the audience for both channels.
 4. **SEO Analysis**: Identify relevant keywords and optimize video titles, descriptions, and tags.
 5. **Distribution Strategy**: Determine the optimal timing and frequency of video uploads, as well as the use of other distribution channels.
 
+## Code
+The notebook `youtube-tags.ipynb` extracts all the tags of the videos on upGrad's and Simplilearn's YouTube channel. We choose Simplilearn for the competition analysis and pure research purposes. The notebook `visuals.ipynb` contains the visualizations so far including analysis of the tags used by both companies, the number of viewers v/s the duration of the videos, tags for the most viral YouTube videos, and so on.
+
 ## Results
-The analysis will provide insights and recommendations for upGrad's YouTube content strategy, including areas for improvement and potential opportunities for growth.
+The analysis will provide insights and recommendations for upGrad's YouTube content strategy, including areas for improvement and potential growth opportunities.
 
 ## Conclusion
 Based on the findings, upGrad can refine its YouTube content strategy to enhance brand visibility, engagement, and conversion rates.
